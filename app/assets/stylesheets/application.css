@@ -10,6 +10,22 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
- *= require_self
+ *= require app-assets/fonts
+ *= require app-assets/bootstrap/bootstrap
+ *= require app-assets/feather/style
+ *= require app-assets/flag-icon-css/flag-icon
+ *= require app-assets/pace
+ *= require app-assets/weather-icons/climacons.min
+ *= require app-assets/meteocons/style
+ *= require app-assets/charts/morris
+ *= require app-assets/charts/chartist
+ *= require app-assets/charts/chartist-plugin-tooltip
+ *= require app-assets/bootstrap-extended
+ *= require app-assets/colors
+ *= require app-assets/components
+ *= require app-assets/menu-types/vertical-content-menu
+ *= require app-assets/colors/palette-gradient
+ *= require app-assets/simple-line-icons/style
+ *= require app-assets/pages/timeline
+ *= require app-assets/pages/dashboard-ecommerce
  */

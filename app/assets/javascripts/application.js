@@ -12,5 +12,14 @@
 //
 //= require rails-ujs
 //= require activestorage
-//= require turbolinks
-//= require_tree .
+//= require app-assets/vendors.min
+//= require app-assets/ui/headroom.min
+//= require app-assets/charts/chartist.min
+//= require app-assets/charts/chartist-plugin-tooltip.min
+//= require app-assets/charts/raphael-min
+//= require app-assets/charts/morris.min
+//= require app-assets/timeline/horizontal-timeline
+//= require app-assets/core/app-menu
+//= require app-assets/core/app
+//= require app-assets/customizer
+//= require app-assets/pages/dashboard-ecommerce
